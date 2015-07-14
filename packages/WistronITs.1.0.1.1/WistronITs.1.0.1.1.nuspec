@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>WistronITs</id>
+    <version>1.0.1.1</version>
+    <title>WistronITs DAL Framework</title>
+    <authors>Gelis</authors>
+    <owners>Gelis</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>緯創軟體所使用的DAL框架.</description>
+    <summary />
+    <releaseNotes>1.0.1.0：
+(1). 在MSSQLObject物件中的GetAll&lt;T&gt;()泛型方法中增加可傳入SqlParameter[]
+
+(2). 增加可透過 DataTable 取得泛型型態的 IEnumeable 的串列資料的 GetEnumerableByDataTable方法。</releaseNotes>
+    <copyright>WistronITs</copyright>
+    <language>zh-TW</language>
+  </metadata>
+</package>

@@ -1,0 +1,322 @@
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.dll.config
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.pdb
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Antlr3.Runtime.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\EntityFramework.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Ionic.Zip.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Microsoft.Web.Infrastructure.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\NPOI.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Net.Http.Formatting.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.WebHost.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Mvc.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Optimization.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Providers.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Razor.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Deployment.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Razor.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\WebGrease.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\WistronITs.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\EntityFramework.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Net.Http.Formatting.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.WebHost.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Mvc.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Razor.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Deployment.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Razor.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\EntityFramework.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Http.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Providers.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.dll.config
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Antlr3.Runtime.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\EntityFramework.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Ionic.Zip.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Microsoft.Web.Infrastructure.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Newtonsoft.Json.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\NPOI.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Net.Http.Formatting.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.WebHost.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Mvc.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Optimization.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Providers.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Razor.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Deployment.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Razor.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\WebGrease.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\WistronITs.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\EntityFramework.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Newtonsoft.Json.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Net.Http.Formatting.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.WebHost.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Mvc.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Razor.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Deployment.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Razor.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\EntityFramework.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Http.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Providers.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLMvc4Application1\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.dll.config
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Antlr3.Runtime.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\EntityFramework.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Ionic.Zip.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Microsoft.Web.Infrastructure.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Newtonsoft.Json.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\NPOI.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Net.Http.Formatting.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.WebHost.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Mvc.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Optimization.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Providers.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Razor.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Deployment.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Razor.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\WebGrease.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\WistronITs.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\EntityFramework.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Newtonsoft.Json.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Net.Http.Formatting.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.WebHost.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Mvc.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Razor.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Deployment.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Razor.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\EntityFramework.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Http.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Providers.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.pdb
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.pdb
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.dll.config
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.pdb
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Antlr3.Runtime.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Business.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.DataAccess.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Models.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Services.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.ViewModels.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\EntityFramework.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Ionic.Zip.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Microsoft.Web.Infrastructure.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\NPOI.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Net.Http.Formatting.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.WebHost.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Mvc.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Optimization.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Providers.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Razor.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Deployment.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Razor.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\WebGrease.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\WistronITs.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Business.pdb
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.DataAccess.pdb
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Models.pdb
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Services.pdb
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.ViewModels.pdb
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\EntityFramework.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Net.Http.Formatting.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Http.WebHost.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Mvc.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.Razor.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Deployment.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\System.Web.WebPages.Razor.xml
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\EntityFramework.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Http.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Providers.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Business.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.DataAccess.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Interfaces.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Models.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Services.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.ViewModels.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Business.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.DataAccess.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Interfaces.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Models.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.Services.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.ViewModels.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.EDMModel.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\Cus.EDMModel.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\EntityFramework.SqlServer.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\EntityFramework.SqlServer.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\UseSQLMvc4Application1\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.dll.config
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Antlr3.Runtime.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Business.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.DataAccess.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Interfaces.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Models.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Services.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.ViewModels.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\EntityFramework.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\EntityFramework.SqlServer.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Ionic.Zip.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Microsoft.Web.Infrastructure.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Newtonsoft.Json.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\NPOI.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Net.Http.Formatting.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Http.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Http.WebHost.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Mvc.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Optimization.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Providers.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Razor.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.WebPages.Deployment.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.WebPages.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.WebPages.Razor.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\WebGrease.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\WistronITs.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.EDMModel.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Business.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.DataAccess.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Interfaces.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Models.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Services.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.ViewModels.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\EntityFramework.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\EntityFramework.SqlServer.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Newtonsoft.Json.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Net.Http.Formatting.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Http.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Http.WebHost.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Mvc.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Razor.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.WebPages.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.WebPages.Deployment.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.WebPages.Razor.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.EDMModel.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\EntityFramework.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Net.Http.Formatting.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Http.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Http.WebHost.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Mvc.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Optimization.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Providers.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Razor.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.dll.config
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\UseSQLMvc4Application1.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Antlr3.Runtime.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Business.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.DataAccess.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Interfaces.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Models.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Services.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.ViewModels.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\EntityFramework.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\EntityFramework.SqlServer.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Ionic.Zip.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Microsoft.Web.Infrastructure.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Newtonsoft.Json.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\NPOI.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Mvc.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Optimization.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Providers.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Razor.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.WebPages.Deployment.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.WebPages.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.WebPages.Razor.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\WebGrease.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\WistronITs.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.EDMModel.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Business.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.DataAccess.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Interfaces.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Models.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.Services.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.ViewModels.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\EntityFramework.xml
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\EntityFramework.SqlServer.xml
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Newtonsoft.Json.xml
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Mvc.xml
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.Razor.xml
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.WebPages.xml
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.WebPages.Deployment.xml
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\System.Web.WebPages.Razor.xml
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\Cus.EDMModel.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\EntityFramework.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Mvc.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Optimization.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Providers.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.Razor.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.csprojResolveAssemblyReference.cache
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\UseSQLMvc4Application1\obj\Debug\UseSQLMvc4Application1.pdb

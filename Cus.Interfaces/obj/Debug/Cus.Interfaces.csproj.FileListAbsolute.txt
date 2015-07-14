@@ -1,0 +1,48 @@
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\Cus.Interfaces.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\Cus.Interfaces.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\Cus.Models.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\Cus.ViewModels.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\Cus.Models.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\Cus.ViewModels.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\obj\Debug\Cus.Interfaces.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\obj\Debug\Cus.Interfaces.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\obj\Debug\Cus.Interfaces.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\Cus.Interfaces.dll.config
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\EntityFramework.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\EntityFramework.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.Interfaces\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.Interfaces.dll.config
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.Interfaces.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.Interfaces.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.Models.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.ViewModels.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\EntityFramework.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.Models.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.ViewModels.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\EntityFramework.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\obj\Debug\Cus.Interfaces.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\obj\Debug\Cus.Interfaces.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\obj\Debug\Cus.Interfaces.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.Interfaces.dll.config
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.Interfaces.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.Interfaces.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.Models.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.ViewModels.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\EntityFramework.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.Models.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\Cus.ViewModels.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\EntityFramework.xml
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\zh-Hant\EntityFramework.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\bin\Debug\zh-Hant\EntityFramework.SqlServer.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\obj\Debug\Cus.Interfaces.csprojResolveAssemblyReference.cache
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\obj\Debug\Cus.Interfaces.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.Interfaces\obj\Debug\Cus.Interfaces.pdb

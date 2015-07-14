@@ -1,0 +1,25 @@
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.EDMModel\bin\Debug\Cus.EDMModel.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.EDMModel\bin\Debug\Cus.EDMModel.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.EDMModel\obj\Debug\Cus.EDMModel.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.EDMModel\obj\Debug\Cus.EDMModel.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.EDMModel\bin\Debug\Cus.EDMModel.dll.config
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.EDMModel\bin\Debug\EntityFramework.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.EDMModel\bin\Debug\EntityFramework.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.EDMModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.EDMModel\bin\Debug\Cus.EDMModel.dll.config
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.EDMModel\bin\Debug\Cus.EDMModel.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.EDMModel\bin\Debug\Cus.EDMModel.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.EDMModel\bin\Debug\EntityFramework.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.EDMModel\bin\Debug\EntityFramework.xml
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.EDMModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.EDMModel\obj\Debug\Cus.EDMModel.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.EDMModel\obj\Debug\Cus.EDMModel.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.EDMModel\bin\Debug\Cus.EDMModel.dll.config
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.EDMModel\bin\Debug\Cus.EDMModel.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.EDMModel\bin\Debug\Cus.EDMModel.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.EDMModel\bin\Debug\EntityFramework.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.EDMModel\bin\Debug\EntityFramework.xml
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.EDMModel\bin\Debug\zh-Hant\EntityFramework.resources.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.EDMModel\obj\Debug\Cus.EDMModel.csprojResolveAssemblyReference.cache
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.EDMModel\obj\Debug\Cus.EDMModel.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.EDMModel\obj\Debug\Cus.EDMModel.pdb

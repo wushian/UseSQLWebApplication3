@@ -1,0 +1,21 @@
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication1\Cus.DataAccess\obj\Debug\Cus.DataAccess.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication1\Cus.DataAccess\bin\Debug\Cus.DataAccess.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication1\Cus.DataAccess\bin\Debug\Cus.DataAccess.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication1\Cus.DataAccess\obj\Debug\Cus.DataAccess.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication1\Cus.DataAccess\obj\Debug\Cus.DataAccess.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication1\Cus.DataAccess\bin\Debug\Cus.Models.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication1\Cus.DataAccess\bin\Debug\Cus.Models.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.DataAccess\bin\Debug\Cus.DataAccess.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.DataAccess\bin\Debug\Cus.DataAccess.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.DataAccess\bin\Debug\Cus.Models.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.DataAccess\bin\Debug\Cus.Models.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.DataAccess\obj\Debug\Cus.DataAccess.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.DataAccess\obj\Debug\Cus.DataAccess.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication3\Cus.DataAccess\obj\Debug\Cus.DataAccess.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.DataAccess\bin\Debug\Cus.DataAccess.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.DataAccess\bin\Debug\Cus.DataAccess.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.DataAccess\bin\Debug\Cus.Models.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.DataAccess\bin\Debug\Cus.Models.pdb
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.DataAccess\obj\Debug\Cus.DataAccess.csprojResolveAssemblyReference.cache
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.DataAccess\obj\Debug\Cus.DataAccess.dll
+R:\UseSQLWebApplication3\UseSQLWebApplication3\Cus.DataAccess\obj\Debug\Cus.DataAccess.pdb
